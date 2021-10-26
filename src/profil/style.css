@@ -1,0 +1,14 @@
+img{
+    width: 300px;  
+    margin-left: 10%; 
+}
+#adresse{
+    font-family: serif;
+    background-color: bisque;
+    margin-right: 15%;
+}
+#fullname{
+    background-color: bisque;
+    font-family: serif;
+    margin-right: 15%;
+}
